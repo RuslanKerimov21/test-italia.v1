@@ -1,0 +1,18 @@
+@media(max-width: 500px){
+    .h1 {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+    .p {
+        font-size: 19px;
+    }
+    .header{
+        padding: 9px;
+    }
+    .form-button {
+        width: 100%;
+    }
+    .container{
+        max-width: 368px;
+    }
+}
